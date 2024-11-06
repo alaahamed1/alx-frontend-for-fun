@@ -155,8 +155,8 @@
     transition-property: color, background-color;
   }
   .button-primary{
-    background-color: var(--color-primary);
-    color: var(--color-white);
+    background-color: var(--color-white);
+    color: var(--color-primary);
   }
   .button-primary:hover{
     background-color: var(--color-white);
